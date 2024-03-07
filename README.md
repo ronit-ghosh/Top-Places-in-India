@@ -3,10 +3,11 @@ Welcome to the Top 9 Places in India Website project! This repository hosts a we
 <hr>
 
 # Features
-Detailed information about the top 9 destinations in India.
-High-quality images and descriptions for each location.
-Responsive design for seamless browsing across devices.
+<ul><li>Detailed information about the top 9 destinations in India.</li>
+<li>High-quality images and descriptions for each location.</li>
+<li>Responsive design for seamless browsing across devices.</li>
+
 # Usage
-Open the index.html file in your web browser.
-Explore the top 9 places in India showcased on the website.
-Click on each destination to view detailed information and images.
+<ul><li>Open the index.html file in your web browser.</li>
+<li>Explore the top 9 places in India showcased on the website.</li>
+<li>Click on each destination to view detailed information and images.</li>
